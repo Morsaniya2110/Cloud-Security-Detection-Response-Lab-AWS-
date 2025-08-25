@@ -63,4 +63,4 @@ scripts/            # Helpers (optional)
 - **Costs**: Designed to stay within Free Tier, but always monitor usage.
 
 ## License
-MIT https://www.linkedin.com/in/sanskruti-morsaniya
+MIT https://www.linkedin.com/in/sanskruti-morsaniya 
